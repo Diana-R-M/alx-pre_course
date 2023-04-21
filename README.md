@@ -1,3 +1,1 @@
 My first readme
-
-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
